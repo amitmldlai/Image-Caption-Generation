@@ -8,6 +8,6 @@ Natural language processing — To turn the understanding of the image into word
 
 An image captioning system would encode the image using a pre-trained Convolutional Neural Network(ENCODER) that extract essential features from it.
 And then a network model(DECODER) reads the encoded features and generates the textual description output.
-![](EDA Images/Image Caption.drawio.png)
+![](Image Caption.drawio.png)
 
 Refer to Blog: https://medium.com/@amitdlmlai/image-photo-caption-b0ead29545de
